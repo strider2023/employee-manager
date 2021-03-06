@@ -10,4 +10,4 @@ To run application,
 
 To bring down docker instances,
 
-### `docker-compose up`
+### `docker-compose down`
